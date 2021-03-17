@@ -1,0 +1,20 @@
+body {
+    background-color: lavender;
+     margin: 0px;
+     padding: 0px;
+    background-repeat: repeat-x;
+    background-size: 250px;
+    width: 100%;
+}
+
+my-container{align-content: center}
+
+h2{
+    color: #6495ED;
+}
+
+h3{
+	color: #6495ED;
+	text-decoration: underline;
+	font-size: 25px;
+}
